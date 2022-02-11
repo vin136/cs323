@@ -50,3 +50,6 @@ Geometric Taylor series
 
 <img width="504" alt="Screen Shot 2022-01-31 at 11 23 25 PM" src="https://user-images.githubusercontent.com/21222766/152087598-c8f69c23-6c53-420b-b002-221bc946b3e1.png">
 
+
+
+
